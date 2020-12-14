@@ -1,1 +1,2 @@
 1st line in file b
+work is gng on b
